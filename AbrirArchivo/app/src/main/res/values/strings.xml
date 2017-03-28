@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abrir Archivo</string>
+    <string name="action_settings">Acerca de...</string>
+    <string name="title_activity_lista_files">ListaFilesActivity</string>
+</resources>
